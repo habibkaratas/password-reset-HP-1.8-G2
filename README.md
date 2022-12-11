@@ -1,0 +1,2 @@
+# password-reset-HP-1.8-G2
+HP 1/8 G2 TAPE PAROLA SIFIRLAMA

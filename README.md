@@ -20,8 +20,11 @@ Ardından yeni bir parola belirleyin.
 Hepsi bu kadar :) 
 
 Sosyal medyadan takip etmeyi unutmayın :)
+
 twitter.com/habib_karatas
+
 t.me/habib_karatas
+
 www.linkedin.com/in/habib-karata%C5%9F-94828872/
 
 

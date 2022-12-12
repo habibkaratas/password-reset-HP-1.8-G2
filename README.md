@@ -1,6 +1,5 @@
-# password-reset-HP-1.8-G2
-
-HP 1/8 G2 TAPE PAROLA SIFIRLAMA
+# HP 1/8 G2 TAPE ADMIN PAROLA SIFIRLAMA
+Bu script administrator parolasının unutulması veya bilinmiyor olması durumunda admin parolasını sıfırlamak için yeni bir key üretmek amacıyla yazılmıştır.
 
 Parolayı sıfırlamadan önce aşağıdaki adımları sırasıyla gerçekleştirin:
 

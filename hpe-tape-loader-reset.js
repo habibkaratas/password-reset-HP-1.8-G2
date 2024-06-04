@@ -1,5 +1,3 @@
-
-
 const passwordCreate = () => {
     const yy = 2022; // Yılı Girin //
     const mm = 12; // Ayı girin //
